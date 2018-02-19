@@ -53,7 +53,7 @@
             ;
         }
         
-        self.textColor = [UIColor blackColor];
+        self.textColor = [UIColor whiteColor];
     }
     
     return self;
